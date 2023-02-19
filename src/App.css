@@ -358,30 +358,6 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     background-color: grey;
 }
 
-
-/* /* .d-block {
-    width: 20px;
-} */
-
-
-/* .container-skill {
-    /* background-color: #61dafb; */
-
-
-/* display: flex;
-flex-direction: column;
-
-} */
-
-
-/* */
-
-*/
-/* list-style: none; */
-
-
-/* } */
-
 .App {
     font-family: sans-serif;
     display: flex;
@@ -404,6 +380,7 @@ flex-direction: column;
     padding: 2rem;
     background-color: #000;
     align-items: center;
+    text-align: center;
 }
 
 .slider_wrapper {
